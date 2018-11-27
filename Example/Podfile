@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'OutlineView_Example' do
+  pod 'OutlineView', :path => '../'
+
+  target 'OutlineView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

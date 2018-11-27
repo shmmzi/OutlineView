@@ -1,0 +1,6 @@
+framework module JTTree {
+  umbrella header "JTTree-umbrella.h"
+
+  export *
+  module * { export * }
+}

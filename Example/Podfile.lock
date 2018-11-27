@@ -1,0 +1,23 @@
+PODS:
+  - JTTree (0.1.0)
+  - OutlineView (0.1.0):
+    - JTTree
+
+DEPENDENCIES:
+  - OutlineView (from `../`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - JTTree
+
+EXTERNAL SOURCES:
+  OutlineView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  JTTree: bfa79dab0ce58963006dfd052f3a32875392b42f
+  OutlineView: bb31cdaa1adee97bcf32d7f6456223089e46a9a5
+
+PODFILE CHECKSUM: 546b736f7830d124dfb39791037dd51ac3883205
+
+COCOAPODS: 1.5.3

@@ -1,0 +1,6 @@
+framework module OutlineView {
+  umbrella header "OutlineView-umbrella.h"
+
+  export *
+  module * { export * }
+}
